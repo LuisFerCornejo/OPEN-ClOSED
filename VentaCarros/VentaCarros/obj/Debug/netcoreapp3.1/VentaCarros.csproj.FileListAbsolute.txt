@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.exe
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.deps.json
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.runtimeconfig.json
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.runtimeconfig.dev.json
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.dll
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\bin\Debug\netcoreapp3.1\VentaCarros.pdb
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.AssemblyInfo.cs
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.dll
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.pdb
+C:\Users\corne\source\repos\VentaCarros\VentaCarros\obj\Debug\netcoreapp3.1\VentaCarros.genruntimeconfig.cache
